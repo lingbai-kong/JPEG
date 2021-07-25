@@ -1,5 +1,5 @@
 # JPEG
-同济大学CS《高级程序语言设计2》大作业: 图像压缩TongJi University CS C++ homework: image compression
+同济大学CS《高级程序语言设计2》大作业: 图像压缩TongJi University CS C++ assignment: image compression
 ## 概述
 
 本项目是为2020年同济大学计算机系高级程序语言设计1期末作业。实现了JPEG压缩算法。
